@@ -1,3 +1,22 @@
-# LearningPython
-Hey !
-In this repository I push exercises that I solved in the Python language. If you wanna, be free to use for you study.
+## LearningPython
+---
+### In this repository I push exercises that I solved in the **Python Language**. Some these codes learned are:
+---
+* ```Append```
+* ```Class```
+* ```Def```
+* ```If```
+* ```Else```
+* ```Elif```
+* ```For x In```
+* ```Insert```
+* ```Len```
+* ```Open```
+* ```Pop```
+* ```Print```
+* ```Vet```
+* ```While```
+---
+### Be free to use this material for your study.
+
+
