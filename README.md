@@ -1,5 +1,5 @@
 ## LearningPython
-### In this repository I push exercises that I solved in the **Python Language**. Some these codes learned are:
+### In this repository I push exercises that I solved in the **Python Language**. Some these command learned are:
 ---
 * ```Append```
 * ```Class```
